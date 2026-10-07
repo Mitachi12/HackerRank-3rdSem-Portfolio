@@ -16,12 +16,12 @@
 - [x] HackerRank evidence screenshots added
 - [x] Reflection added
 - [x] Studio report added
-- [ ] README added
+- [x] README added
 
 ## Final Review
 
-- [ ] Check all source files
-- [ ] Check HackerRank screenshots
-- [ ] Check profile links
-- [ ] Add README as the final file
-- [ ] Review the repository before submission
+- [x] Check all source files
+- [x] Check HackerRank screenshots
+- [x] Check profile links
+- [x] Add README as the final file
+- [x] Review the repository before submission
