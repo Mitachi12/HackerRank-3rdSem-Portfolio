@@ -147,7 +147,7 @@ The repository includes the required **2-page studio report** containing the pro
 - [x] HackerRank profile link added
 - [x] Complexity summary added
 - [x] Evidence screenshots prepared
-- [ ] Final GitHub repository URL added to report
+- [x] Final GitHub repository URL added to report
 
 ---
 
